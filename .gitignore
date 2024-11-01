@@ -10,5 +10,7 @@
 !/SoundCodec/test/sample8_16k.wav
 !/SoundCodec/test/sample9_48k.wav
 !/SoundCodec/test/sample10_16k.wav
+academicodec_hifi/*
+audiodec/*
 
 __pycache__/
