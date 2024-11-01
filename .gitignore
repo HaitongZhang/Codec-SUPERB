@@ -12,5 +12,7 @@
 !/SoundCodec/test/sample10_16k.wav
 academicodec_hifi/*
 audiodec/*
+funcodec/* 
+SpeechTokenizer/*
 
 __pycache__/
